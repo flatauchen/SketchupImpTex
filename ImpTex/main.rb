@@ -125,13 +125,13 @@ module FlaTauchen
 				if Sketchup.get_locale.downcase == "pt-br"
 					lang_dimeinv	= "As dimensões não são válidas!"
 					lang_semdim12	= "O arquivo \""
-					lang_semdim22	= "\" não possui as dimensões,\n insira por favor!"
+					lang_semdim22	= "\" não possui as dimensões, insira por favor!"
 					lang_aplictd	= "Aplicar isso a todos?"
 					lang_formato	= "Arquivos nomeados com as medidas\nex: 'Descrição Largura x Altura .jpg\/png' poderão ser importados automáticamente."
 				else
 					lang_dimeinv	= "The dimensions are not valid!"
 					lang_semdim12	= "The file \""
-					lang_semdim22	= "\" does not have the dimensions,\n please insert them!"
+					lang_semdim22	= "\" does not have the dimensions, please insert them!"
 					lang_aplictd	= "Apply this to everyone?"
 					lang_formato	= "Files named with measurements\neg: 'Description Width x Height .jpg\/png' can be imported automatically."
 				end
@@ -245,12 +245,12 @@ module FlaTauchen
 				if Sketchup.get_locale.downcase == "pt-br"
 					lang_dimeinv	= "As dimensões não são válidas!"
 					lang_semdim12	= "O arquivo \""
-					lang_semdim22	= "\" não possui as dimensões,\n insira por favor!"
+					lang_semdim22	= "\" não possui as dimensões, insira por favor!"
 					lang_formato	= "Arquivos nomeados com as medidas\nex: 'Descrição Largura x Altura .jpg\/png' poderão ser importados automáticamente."
 				else
 					lang_dimeinv	= "The dimensions are not valid!"
 					lang_semdim12	= "The file \""
-					lang_semdim22	= "\" does not have the dimensions,\n please insert them!"
+					lang_semdim22	= "\" does not have the dimensions, please insert them!"
 					lang_formato	= "Files named with measurements\neg: 'Description Width x Height .jpg\/png' can be imported automatically."
 				end
 
