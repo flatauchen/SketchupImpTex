@@ -14,7 +14,7 @@ module FlaTauchen
 	module TiImpTex
 
 		EXTVERSION		= "1.0.1"
-		EXTTITLE		= "InpTex"
+		EXTTITLE		= "ImpTex"
 		EXTNAME			= "ImpTex"
 		EXTDESCRIPTION	= "Importação de materiais."
 
